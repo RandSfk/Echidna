@@ -14,7 +14,7 @@ Echidna is an automated tool for creating Instagram accounts. It simplifies the 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/echidna.git
+   git clone https://github.com/RandSfk/echidna.git
    cd echidna
 2. Prepare the image "pp.jpg" to change the profile photo
 ## Notes
