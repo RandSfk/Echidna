@@ -23,5 +23,5 @@ Make sure to comply with Instagram's terms of service when using this tool.
 Disclaimer
 This tool is for educational purposes only. The user is responsible for any actions taken using this tool.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
